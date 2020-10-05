@@ -1,17 +1,35 @@
 {
   "name": "matrix-theme",
   "displayName": "Matrix Theme",
-  "description": "Matrix Theme for Visual Studio Code",
-  "version": "0.0.1",
-
+  "description": "Visual Studio Code color theme inspired by \"The Matrix\" film.",
+  "version": "0.1.0",
+  "publisher": "UstymUkhman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UstymUkhman/matrix-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Matrix",
+    "Black",
+    "Green"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#0c0c0c",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.47.0"
   },
-
   "categories": [
-      "Themes"
+    "Themes"
   ],
-
+  "icon": "icon.png",
   "contributes": {
     "themes": [{
       "label": "Matrix",

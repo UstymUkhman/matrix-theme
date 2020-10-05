@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "matrix-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Matrix Theme :computer:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+> Visual Studio Code color theme inspired by [**The Matrix**](https://en.wikipedia.org/wiki/The_Matrix) film.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Preview
 
-**Enjoy!**
+## Installation
+
+## Misc
+
+This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/UstymUkhman/matrix-theme/issues), I'm sure there are things I missed.
+
+Any relevant changes for each version are documented in the [changelog](https://github.com/UstymUkhman/matrix-theme/blob/master/CHANGELOG.md), please check it out before filing any issues.
