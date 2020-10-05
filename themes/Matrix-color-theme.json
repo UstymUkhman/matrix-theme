@@ -100,7 +100,7 @@
 		"editorError.foreground": "#b40000",
 		"editorGroup.border": "#00cc00",
 		"editorGroup.dropBackground": "#080808",
-		"editorGroup.emptyBackground": "#000000",
+		"editorGroup.emptyBackground": "#0c0c0c",
 		"editorGroupHeader.noTabsBackground": "#0c0c0c",
 		"editorGroupHeader.tabsBackground": "#0c0c0c",
 		"editorGutter.addedBackground": "#88ff88",
