@@ -964,7 +964,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#006600"
 			}
 		},
 		{
@@ -973,7 +973,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#008800"
 			}
 		},
 		{
@@ -994,8 +994,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#00cc00"
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1005,8 +1004,7 @@
 				"markup.bold string"
 			],
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#00cc00"
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1020,8 +1018,7 @@
 				"markup.quote markup.bold string"
 			],
 			"settings": {
-				"fontStyle": "italic bold",
-				"foreground": "#00cc00"
+				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -1031,7 +1028,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#bbffbb"
+				"foreground": "#88ff88"
 			}
 		},
 		{
@@ -1069,7 +1066,6 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#88ff88"
 			}
 		},
@@ -1079,7 +1075,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#88ff88"
 			}
 		},
 		{
@@ -1088,7 +1084,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#006600"
 			}
 		},
 		{
@@ -1097,7 +1093,7 @@
 				"markup.raw.block.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#003300"
 			}
 		},
 		{
@@ -1106,7 +1102,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#00cc00"
 			}
 		},
 		{
@@ -1117,7 +1113,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#88ff88"
 			}
 		},
 		{
@@ -1126,7 +1122,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#bbffbb"
 			}
 		},
 		{
@@ -1136,7 +1132,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65737E"
+				"foreground": "#00cc00"
 			}
 		},
 		{
@@ -1145,7 +1141,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#006600"
+				"foreground": "#008800"
 			}
 		}
 	]
