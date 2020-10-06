@@ -6,8 +6,8 @@
 > Visual Studio Code color theme inspired by [**The Matrix**](https://en.wikipedia.org/wiki/The_Matrix) film.
 
 ## Preview
-![Project](project.jpg)
-![Languages](languages.jpg)
+![Project](./images/project.jpg)
+![Languages](./images/languages.jpg)
 
 ## Installation
 
@@ -19,6 +19,4 @@
 
 ## Misc
 
-This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/UstymUkhman/matrix-theme/issues), I'm sure there are things I missed.
-
-Any relevant changes for each version are documented in the [changelog](https://github.com/UstymUkhman/matrix-theme/blob/master/CHANGELOG.md), please check it out before filing any issues.
+This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/UstymUkhman/matrix-theme/issues). Any relevant changes for each version are documented in the [changelog](https://github.com/UstymUkhman/matrix-theme/blob/master/CHANGELOG.md), please check it out before filing any issues.
