@@ -2,44 +2,54 @@
   "name": "matrix-theme",
   "displayName": "Matrix Theme",
   "description": "Visual Studio Code color theme inspired by \"The Matrix\" film.",
-  "version": "0.1.2",
+  "homepage": "https://github.com/UstymUkhman/matrix-theme#readme",
   "publisher": "UstymUkhman",
+  "icon": "images/icon.png",
+  "version": "0.1.3",
   "license": "MIT",
-  "homepage": "https://github.com/UstymUkhman/matrix-theme/blob/master/README.md",
-  "bugs": {
-    "url": "https://github.com/UstymUkhman/matrix-theme/issues",
-    "email": "ustym.ukhman@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/UstymUkhman/matrix-theme"
-  },
-  "keywords": [
-    "Theme",
-    "Dark Theme",
-    "Matrix",
-    "Black",
-    "Green"
+  "categories": [
+    "Themes"
   ],
-  "scripts": {
-    "publish": "vsce publish"
+  "keywords": [
+    "dark",
+    "theme",
+    "themes",
+    "dark-theme",
+    "color-theme",
+    "matrix",
+    "black",
+    "green"
+  ],
+  "engines": {
+    "vscode": "^1.47.0"
   },
   "galleryBanner": {
     "color": "#0c0c0c",
     "theme": "dark"
   },
-  "engines": {
-    "vscode": "^1.47.0"
+  "scripts": {
+    "publish": "vsce publish"
   },
-  "categories": [
-    "Themes"
-  ],
-  "icon": "images/icon.png",
+  "author": {
+    "name": "Ustym Ukhman",
+    "email": "ustym.ukhman@gmail.com",
+    "url": "https://github.com/UstymUkhman/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UstymUkhman/matrix-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/UstymUkhman/matrix-theme/issues",
+    "email": "ustym.ukhman@gmail.com"
+  },
   "contributes": {
-    "themes": [{
-      "label": "Matrix",
-      "uiTheme": "vs-dark",
-      "path": "./themes/Matrix-color-theme.json"
-    }]
+    "themes": [
+      {
+        "label": "Matrix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Matrix-color-theme.json"
+      }
+    ]
   }
 }
